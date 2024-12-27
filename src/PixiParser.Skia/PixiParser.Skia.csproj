@@ -14,7 +14,7 @@
     <RepositoryUrl>https://github.com/PixiEditor/PixiParser</RepositoryUrl>
     <PackageProjectUrl>https://pixieditor.net/</PackageProjectUrl>
     <PackageTags>parser skiasharp</PackageTags>
-    <PackageId>PixiEditor.Parser.Skia</PackageId>
+    <PackageId>Nejman.PixiEditor.Parser.Skia</PackageId>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageIcon>PixiParserLogo.png</PackageIcon>
     <Version>5.0.0.0</Version>

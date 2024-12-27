@@ -1,6 +1,8 @@
+This is fork for updated NuGet of PixiEditor.Parser
+
 [![Discord Server](https://badgen.net/badge/discord/join%20chat/7289DA?icon=discord)](https://discord.gg/psrCP35kdk)
-[![Download](https://img.shields.io/badge/nuget-download-blue)](https://www.nuget.org/packages/PixiEditor.Parser/)
-[![Downloads](https://img.shields.io/nuget/dt/PixiEditor.Parser)](https://www.nuget.org/packages/PixiEditor.Parser/)
+[![Download](https://img.shields.io/badge/nuget-download-blue)](https://www.nuget.org/packages/Nejman.PixiEditor.Parser/)
+[![Downloads](https://img.shields.io/nuget/dt/PixiEditor.Parser)](https://www.nuget.org/packages/Nejman.PixiEditor.Parser/)
 
 <img src="https://user-images.githubusercontent.com/45312141/102829812-2e1c1c80-43e8-11eb-889c-0043e66e5fe5.png" width="700" />
 
@@ -25,12 +27,12 @@ PixiParser.Serialize(document, "./pixiFile.pixi");
 
 Package Manager Console:
 ```
-Install-Package PixiEditor.Parser
+Install-Package Nejman.PixiEditor.Parser
 ```
 
 .NET CLI:
 ```
-dotnet add package PixiEditor.Parser
+dotnet add package Nejman.PixiEditor.Parser
 ```
 
 ## SkiaSharp
@@ -57,12 +59,12 @@ layer.FromSKImage(image);
 
 Package Manager Console:
 ```
-Install-Package PixiEditor.Parser.Skia
+Install-Package Nejman.PixiEditor.Parser.Skia
 ```
 
 .NET CLI:
 ```
-dotnet add package PixiEditor.Parser.Skia
+dotnet add package Nejman.PixiEditor.Parser.Skia
 ```
 
 ## Need Help?

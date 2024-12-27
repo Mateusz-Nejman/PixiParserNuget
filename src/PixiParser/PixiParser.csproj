@@ -4,7 +4,7 @@
     <TargetFrameworks>netstandard2.0;net8.0</TargetFrameworks>
     <LangVersion>Latest</LangVersion>
     <RootNamespace>PixiEditor.Parser</RootNamespace>
-    <PackageId>PixiEditor.Parser</PackageId>
+    <PackageId>Nejman.PixiEditor.Parser</PackageId>
     <Company>PixiEditor</Company>
     <Authors>Philip Kreuz, Krzysztof Krysiński, Egor Mozgovoy and Contributors</Authors>
     <Description>A Parser for serializing and deserializing .pixi files used by PixiEditor</Description>
